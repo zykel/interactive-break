@@ -1,0 +1,1 @@
+*{margin:0}body{width:100vw;height:100vh}main.svelte-9nkhgu{position:relative}#counter-container.svelte-9nkhgu{position:fixed;top:50%;left:50%;transform:translate(-50%,-50%);z-index:2;display:flex;justify-content:center;align-items:center}#other-content-container.svelte-9nkhgu{z-index:1;position:absolute;width:100vw;height:100vh;overflow:hidden}
